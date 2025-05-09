@@ -153,7 +153,4 @@ t5.penup()
 
 
 
-
-
-
 turtle.done()
